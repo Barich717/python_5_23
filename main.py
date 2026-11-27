@@ -1,3 +1,5 @@
+"""Вариант 23. Программа управления показом изображений."""
+
 from models.gallery import ImageGallery
 from models.image_types import AnimatedImage, RasterImage, VectorImage
 from ui.terminal import Terminal
